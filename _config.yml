@@ -3,13 +3,14 @@ baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Awesome Title
-email: your-email@domain.com
-description: "Procurement tools and templates for professional buyers. Free purchase orders, quotations requests, bid analysis templates for Excel and Word."
+email: purchasingtoolpak@gmail.com
+description: "Procurement tools and templates for professional buyers. Free purchase orders, quotations requests, 
+              bid analysis templates for Excel and Word."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: David Mak
   pic: 1
   position: Lead Designer
   social:
@@ -57,8 +58,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 101 Oak Island Drive
+  - line: Oak Island, NC 28465
 
 # Build settings
 markdown: kramdown
