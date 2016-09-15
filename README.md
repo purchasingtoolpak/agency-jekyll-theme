@@ -8,6 +8,7 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 ###Portfolio 
 
 Portfolio projects are in '/_posts'
+Use '_includes/modals' to change post headers
 
 Images are in '/img/portfolio'
 
