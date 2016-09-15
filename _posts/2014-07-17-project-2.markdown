@@ -9,7 +9,7 @@ thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: April 2016
 author: Purchasing Toolpak
-category: Excel Template
+category: P2P
 description: Purchase order works best for ordering supplies or materials. Includes second page for added detail along with third tab for receiving items ordered.
 
 ---
