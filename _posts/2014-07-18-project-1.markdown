@@ -1,6 +1,6 @@
 ---
 title: Bid Evaluation
-subtitle: Strategic Sourcing
+subtitle: Excel Template
 layout: default
 modal-id: 1
 date: 2014-07-18
