@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: bid-evaluation-mp.png
-thumbnail: bid-evaluation-mp-thumbnail.png
+thumbnail: tn_bid-evaluation-mp-thumbnail.png
 alt: image-alt
 project-date: September 2016
 author: Purchasing Toolpak
