@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Supplier Profile
+subtitle: Word
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2016-09-15
+img: supplier-profile.png
+thumbnail: supplier-profile-thumbnail.png
 alt: image-alt
-project-date: April 2014
-author: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2016
+author: Purchasing Toolpak
+category: Strategic Sourcing
+description: Use the supplier profile form to help assess a supplier's capabilities. Review the profile to determine if the supplier(s) are capable to participate in the competitive bid process. Use the form to screen new or innnovative suppliers for R&D or engineering further evaluation.
 
 ---
