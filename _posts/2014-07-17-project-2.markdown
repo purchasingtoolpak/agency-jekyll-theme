@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2016-09-15
 img: purchase-order.png
-thumbnail: purchase-order-thumbnail.png
+thumbnail: tn_purchase-order-thumbnail.png
 alt: image-alt
 project-date: April 2016
 author: Purchasing Toolpak
