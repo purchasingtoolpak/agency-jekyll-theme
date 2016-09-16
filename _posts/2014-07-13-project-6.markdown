@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2016
 author: Purchasing Toolpak
 category: Strategic Sourcing
-description: Use the supplier profile form to help assess a supplier's capabilities. Review the profile to determine if the supplier(s) are capable to participate in the competitive bid process. Use the form to screen new or innnovative suppliers for R&D or engineering further evaluation.
+description: Use the supplier profile form to help assess a supplier's capabilities. Assess the profile to determine if the supplier(s) are capable to participate in the competitive bid process. Use the form to screen new or innnovative suppliers prior to technical review by R&D or Engineering.
 
 ---
