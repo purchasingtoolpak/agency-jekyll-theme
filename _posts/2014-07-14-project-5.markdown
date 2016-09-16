@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Contract Approval Request
+subtitle: Excel
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 2016-09-14
+img: contract-approval-request.png
+thumbnail: contract-approval-request-thumbnail.png
 alt: image-alt
-project-date: April 2014
-author: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2016
+author: Purchasing Toolpak
+category: Strategy
+description: In many organizations procurement policy requires management approval of contracts. Use this template for approval of procurement contracts. 
 
 ---
