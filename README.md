@@ -7,7 +7,7 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 ###Services - now Usage
 
-See pre-defined icons such as globe, certificatte etc in the css-font awesome file
+See pre-defined icons such as globe, certificate etc in the css-font awesome file
 
 ###Portfolio 
 
