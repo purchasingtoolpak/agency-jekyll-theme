@@ -5,6 +5,10 @@ Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templa
 
 # How to use
 
+###Services - now Usage
+
+See pre-defined icons such as globe, certificatte etc in the css-font awesome file
+
 ###Portfolio 
 
 Portfolio projects are in '/_posts'
