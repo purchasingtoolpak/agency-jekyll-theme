@@ -1,4 +1,5 @@
-<?php
+
+//<?php
 /*
 // Check for empty fields
 if(empty($_POST['name'])  		||
@@ -25,4 +26,4 @@ $headers .= "Reply-To: $email_address";
 mail($to,$email_subject,$email_body,$headers);
 return true;
 */
-?>
+//?>
