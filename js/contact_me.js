@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/purchasingtoolpak@gmail.com",
+                url: "https://getsimpleform.com/messages?form_api_token=d25f0597191aa4ba17f49c4dae4bf835",
                 type: "POST",
                 data: {
                     name: name,
