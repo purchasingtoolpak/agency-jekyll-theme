@@ -50,11 +50,11 @@ social:
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket 
     url: 
   - title: github
-    url: http://github.com/purchasingtoolpak
+    url: http://github.com/purchasingtoolpak/purchasingtoolpak
 
 # Postal address (add as many lines as necessary)
 address:
