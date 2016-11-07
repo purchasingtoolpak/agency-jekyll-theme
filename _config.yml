@@ -8,6 +8,9 @@ description: "Procurement tools and templates for professional buyers. Free purc
               bid analysis templates for Excel and Word."
 gems:
   - jekyll-sitemap
+  
+# Google Services
+  google_analytics: UA-86996516-1
 
 # Team names, titles and social links
 people:
