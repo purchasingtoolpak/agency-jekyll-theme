@@ -7,7 +7,7 @@ email: purchasingtoolpak@gmail.com
 description: "Procurement tools and templates for professional buyers. Free purchase orders, quotations requests, 
               bid analysis templates for Excel and Word."
 gems:
-  jekyll-sitemap
+ # jekyll-sitemap
   
 # Google Services
   google_analytics: UA-86996516-1
