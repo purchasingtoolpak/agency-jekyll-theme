@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Purchasing Toolpak LLC
 email: purchasingtoolpak@gmail.com
-description: "Procurement tools and templates for professional buyers. Free purchase orders, quotations requests, bid analysis templates for Excel and Word."
+description: "Free Procurement tools and templates for professional buyers. Free purchase orders, quotations requests, bid analysis templates for Microsoft Excel, Word and PowerPoint."
 gems:
  # jekyll-sitemap
   
