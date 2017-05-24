@@ -2,9 +2,10 @@ url: http://purchasingtoolpak.com
 baseurl: 
 
 # Site settings
-title: Purchasing Toolpak LLC
+title: Free Procurement tools and templates for supply management professionals - purchasing managers, purchasing agents and buyers.
 email: purchasingtoolpak@gmail.com
-description: "Free Procurement tools and templates for professional buyers. Free purchase orders, quotations requests, bid analysis templates for Microsoft Excel, Word and PowerPoint."
+description: "Free procurement templates and purchasing templates that increase buyer productivity, increase purchasing power, drive continuous improvement, quality improvement and manage supply and supplier risk."
+keywords: "procurement template, purchasing template, strategic sourcing template, purchasing order template, supply management template, request for quotation"               
 gems:
  # jekyll-sitemap
   
