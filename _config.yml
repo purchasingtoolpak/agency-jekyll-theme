@@ -5,6 +5,7 @@ baseurl:
 title: Purchasing Toolpak LLC
 email: purchasingtoolpak@gmail.com
 description: Free procurement templates and purchasing templates that increase buyer productivity, increase purchasing power, drive continuous improvement, quality improvement and manage supply and supplier risk.
+tags: procurement templates, purchasing templates
 
 gems:
  # jekyll-sitemap
