@@ -1,15 +1,15 @@
 ---
-title: Bid Evaluation
+title: RFP Bid Evaluation
 subtitle: Excel Template
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: bid-evaluation-mp.png
 thumbnail: tn_bid-evaluation-mp.png
-alt: image-alt
+alt: rfp bid evaluation
 project-date: September 2016
 author: Purchasing Toolpak
 category: Strategic Sourcing
-description: Use the bid evaluation template for evaluating multiple parts. Enter information by item and supplier to calculate total cost.
+description: Procurement uses the RFP bid evaluation template for evaluating multiple parts. Enter information by item and supplier to calculate total cost.
 
 ---
