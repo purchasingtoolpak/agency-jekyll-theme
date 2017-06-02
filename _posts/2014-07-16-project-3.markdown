@@ -1,15 +1,15 @@
 ---
-title: Request for Quotation
+title: Request for Quotation (rfq)
 subtitle: Excel Template
 layout: default
 modal-id: 3
 date: 2016-09-15
 img: request-for-quotation.png
 thumbnail: tn_request-for-quotation.png
-alt: image-alt
+alt: request for quotation template
 project-date: September 2016
 author: Purchasing Toolpak
 category: Strategic Sourcing
-description: A common task for purchasing is to manage the competitive bid process. This template will work with parts or services. There is ample room to enter a detailed item description. Along with price, the supplier provides lead time, payment terms and freight terms.
+description: A common task for procurement is to manage the competitive bid process with and rfq. This free Excel rfq template will work with parts or services. There is ample space for procurement to enter a detailed item description. Along with price, the supplier provides lead time, payment terms and freight terms.
 
 ---
