@@ -1,7 +1,7 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
-{% include css/googleapis-montserrat.css %}
-{% include css/googleapis-kaushan.css %}
-{% include css/googleapis-lato.css %}
-{% include css/googleapis-droid.css %}
+{% include css/google-apis-montserrat.css %}
+{% include css/google-apis-kaushan.css %}
+{% include css/google-apis-lato.css %}
+{% include css/google-apis-droid.css %}
 {{ content }}
