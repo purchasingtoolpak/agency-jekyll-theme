@@ -1,7 +1,3 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
-{% include css/google-apis-montserrat.css %}
-{% include css/google-apis-kaushan.css %}
-{% include css/google-apis-lato.css %}
-{% include css/google-apis-droid.css %}
 {{ content }}
