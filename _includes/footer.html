@@ -1,4 +1,41 @@
   <footer>
+    
+    <!-- Load rest of CSS -->
+    function loadCSS( href, before, media ){
+        "use strict";
+       var ss = window.document.createElement( "link" );
+       var ref = before || window.document.getElementsByTagName( "script" )[ 0 ];
+       var sheets = window.document.styleSheets;
+       ss.rel = "stylesheet";
+       ss.href = href;
+       ss.media = "only x";
+       ref.parentNode.insertBefore( ss, ref );
+       function toggleMedia(){
+          var defined;
+          for( var i = 0; i < sheets.length; i++ ){
+             if( sheets[ i ].href && sheets[ i ].href.indexOf( href ) > -1 ){
+                  defined = true;
+              }
+          }
+          if( defined ){
+              ss.media = media || "all";
+            }
+           else {
+                setTimeout( toggleMedia );
+            }
+        }
+        toggleMedia();
+        return ss;
+    }
+    loadCSS( "/style.css");
+    loadCSS( "/css/font-awesome/css/font-awesome.min.css" );
+    loadCSS("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+    loadCSS("https://fonts.googleapis.com/css?family=Kaushan+Script");
+    loadCSS("https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic");
+    loadCSS("https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic");
+    loadCSS("https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700");
+    </script>
+    
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
