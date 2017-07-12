@@ -1,6 +1,7 @@
   <footer>
     
     <!-- Load rest of CSS -->
+    <script>
     function loadCSS( href, before, media ){
         "use strict";
        var ss = window.document.createElement( "link" );
@@ -27,7 +28,8 @@
         toggleMedia();
         return ss;
     }
-    loadCSS( "/css/font-awesome/css/font-awesome.min.css" );
+    loadCSS("/style.css");  
+    loadCSS("/css/font-awesome/css/font-awesome.min.css");
     loadCSS("https://fonts.googleapis.com/css?family=Montserrat:400,700");
     loadCSS("https://fonts.googleapis.com/css?family=Kaushan+Script");
     loadCSS("https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic");
