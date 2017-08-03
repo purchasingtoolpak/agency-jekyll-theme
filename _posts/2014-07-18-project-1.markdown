@@ -4,8 +4,8 @@ subtitle: Excel Template
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: bid-evaluation-mp.png
-thumbnail: tn_bid-evaluation-mp.png
+img: bid-evaluation-lg-min.png.png
+thumbnail: tn_bid-evaluation-min.png
 alt: rfp bid evaluation
 project-date: September 2016
 author: Purchasing Toolpak
