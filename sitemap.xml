@@ -7,17 +7,20 @@ sitemap: false
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://purchasingtoolpak.com</loc></url>
   <url><loc>https://purchasingtoolpak.com/feed.xml</loc></url>
+  <!--
   <url><loc>https://purchasingtoolpak.com/#procurement-template-usage</loc></url>
   <url><loc>https://purchasingtoolpak.com/#portfolio</loc></url>
   <url><loc>https://purchasingtoolpak.com/#about-purchasing-toolpak</url></loc>
   <url><loc>https://purchasingtoolpak.com/#download-procurement-templates</url></loc>
   <url><loc>https://purchasingtoolpak.com/#contact-purchasing-toolpak</url></loc>
+  -->
   <url><loc>http://blog.purchasingtoolpak.com/</url></loc>
   <url><loc>http://blog.purchasingtoolpak.com/atom</url></loc>
   <url><loc>https://github.com/purchasingtoolpak/purchasingtoolpak</url></loc>
+  <!--
   <url><loc>https://purchasingtoolpak.com/#portfolioModalPrivacy</url></loc>
   <url><loc>https://purchasingtoolpak.com/#portfolioModalTerms</url></loc>
-  
+  -->
 
   {% for post in site.posts %}
 <url><loc>{{ site.url }}{{ post.url }}</loc></url>
