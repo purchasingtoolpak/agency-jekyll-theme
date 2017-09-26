@@ -4,7 +4,7 @@ baseurl:
 # Site settings
 title: Procurement Templates & Tools
 email: purchasingtoolpak@gmail.com
-description: Procurement templates and tools that increase purchasing power. Excel and Word templates, purchase order, requisition, rfq, rfp, contract, strategic sourcing
+description: Procurement templates that increase purchasing power. Excel purchase order, requisition, rfq, rfp, contract.
 
 gems:
  # jekyll-sitemap
