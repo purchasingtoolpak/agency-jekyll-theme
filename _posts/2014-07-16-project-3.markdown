@@ -1,12 +1,12 @@
 ---
-title: Request for Quotation (rfq)
-subtitle: Excel Template
+title: Request for Quotation
+subtitle: Excel RFQ Template
 layout: default
 modal-id: 3
 date: 2016-09-15
 img: request-for-quotation.png
 thumbnail: tn_request-for-quotation2.png
-alt: request for quotation template
+alt: request for quotation template rfq
 project-date: September 2016
 author: Purchasing Toolpak
 category: Strategic Sourcing
