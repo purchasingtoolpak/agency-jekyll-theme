@@ -5,7 +5,7 @@ layout: default
 modal-id: 6
 date: 2016-09-15
 img: supplier-profile.png
-thumbnail: tn_supplier-profile.png
+thumbnail: tn_supplier-profile2.png
 alt: supplier profile template
 project-date: September 2016
 author: Purchasing Toolpak
