@@ -6,7 +6,8 @@ title: Procurement Templates & Tools
 email: purchasingtoolpak@gmail.com
 description: Procurement templates that increase purchasing power. Excel purchase order, requisition, rfq, rfp, contract.
 
-gems:
+# was gems:
+plugins:
  # jekyll-sitemap
   
 # Google Services
@@ -17,24 +18,10 @@ people:
 - name: David Mak
   pic: 1
   position: Lead Designer
-  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: stack-overflow
-#      url: #
+  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket 
-    url: 
   - title: github
     url: http://github.com/purchasingtoolpak/purchasingtoolpak
 
